@@ -1,0 +1,13 @@
+@import "bootstrap/scss/bootstrap";
+
+// code de customisation
+
+$primary : pink;
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "sucess": $sucess,
+    "info": $info,
+    "warning": $warning,
+)
